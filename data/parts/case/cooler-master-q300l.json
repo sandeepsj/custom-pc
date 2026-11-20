@@ -1,0 +1,41 @@
+{
+  "id": "cooler-master-q300l",
+  "type": "case",
+  "brand": "Cooler Master",
+  "model": "MasterBox Q300L",
+  "specs": {
+    "style": "Mini tower",
+    "supportedMotherboards": [
+      "mATX",
+      "ITX"
+    ],
+    "maxGpuLengthMm": 360,
+    "maxCoolerHeightMm": 159,
+    "psuFormFactors": [
+      "ATX"
+    ],
+    "includedFans": 1,
+    "driveBays": "1x 3.5in, 2x 2.5in"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Cooler%20Master%20MasterBox%20Q300L",
+      "price": 3400,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=Cooler%20Master%20MasterBox%20Q300L",
+      "price": 3300,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "notes": "Compact, but will not take a full ATX board.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

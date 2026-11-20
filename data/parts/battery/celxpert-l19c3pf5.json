@@ -1,0 +1,13 @@
+{
+  "id": "celxpert-l19c3pf5",
+  "type": "battery",
+  "brand": "Celxpert",
+  "model": "L19C3PF5",
+  "specs": {
+    "capacityWh": 57,
+    "chemistry": "Li-poly"
+  },
+  "listings": [],
+  "notes": "Design capacity read from this machine.",
+  "updatedAt": "2026-11-20"
+}

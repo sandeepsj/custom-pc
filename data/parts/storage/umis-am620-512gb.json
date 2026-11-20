@@ -1,0 +1,16 @@
+{
+  "id": "umis-am620-512gb",
+  "type": "storage",
+  "brand": "UMIS",
+  "model": "AM620 512 GB (RPJTJ512MEE1OWX)",
+  "specs": {
+    "kind": "ssd",
+    "interface": "nvme",
+    "formFactor": "M.2 2242",
+    "capacityGB": 512,
+    "pcieGen": 3
+  },
+  "listings": [],
+  "notes": "Model and capacity read from this machine. A Lenovo OEM drive (FRU 5SS1B60640) with no retail listing found in India, so it has no price. Read and write speeds are not recorded because no maker figure was confirmed.",
+  "updatedAt": "2026-11-20"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "creator-with-gpu",
+  "kind": "custom",
+  "name": "Creator with graphics card",
+  "purpose": "Editing, 1440p gaming and local AI experiments.",
+  "parts": {
+    "cpu": "amd-ryzen-7-7700",
+    "motherboard": "gigabyte-b650-eagle-ax",
+    "ram": [
+      {
+        "id": "corsair-vengeance-ddr5-32gb-6000",
+        "qty": 1
+      }
+    ],
+    "storage": [
+      {
+        "id": "wd-black-sn770-1tb",
+        "qty": 1
+      },
+      {
+        "id": "seagate-barracuda-2tb",
+        "qty": 1
+      }
+    ],
+    "gpu": "sapphire-pulse-rx-7800-xt",
+    "psu": "deepcool-pm750d",
+    "case": "deepcool-cc560",
+    "cooler": "thermalright-peerless-assassin-120-se"
+  },
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

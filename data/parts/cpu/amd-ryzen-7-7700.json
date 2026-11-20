@@ -1,0 +1,43 @@
+{
+  "id": "amd-ryzen-7-7700",
+  "type": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 7 7700",
+  "series": "Ryzen 7000",
+  "releaseYear": 2023,
+  "specs": {
+    "socket": "AM5",
+    "cores": 8,
+    "threads": 16,
+    "baseGHz": 3.8,
+    "boostGHz": 5.3,
+    "tdpW": 65,
+    "memoryTypes": [
+      "DDR5"
+    ],
+    "integratedGraphics": "Radeon Graphics (2 cores)",
+    "pcieGen": 5,
+    "coolerIncluded": true
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=AMD%20Ryzen%207%207700",
+      "price": 27400,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=AMD%20Ryzen%207%207700",
+      "price": 26900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "notes": "Boxed with the Wraith Prism cooler.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

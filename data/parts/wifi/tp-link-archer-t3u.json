@@ -1,0 +1,23 @@
+{
+  "id": "tp-link-archer-t3u",
+  "type": "wifi",
+  "brand": "TP-Link",
+  "model": "Archer T3U",
+  "specs": {
+    "standard": "Wi-Fi 5 (AC1300)",
+    "bluetooth": null,
+    "interface": "USB"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=TP-Link%20Archer%20T3U",
+      "price": 1300,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

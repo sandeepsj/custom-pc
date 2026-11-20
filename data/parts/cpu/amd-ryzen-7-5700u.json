@@ -1,0 +1,26 @@
+{
+  "id": "amd-ryzen-7-5700u",
+  "type": "cpu",
+  "brand": "AMD",
+  "model": "Ryzen 7 5700U",
+  "series": "Ryzen 5000 U-series",
+  "releaseYear": 2021,
+  "replaceable": false,
+  "specs": {
+    "socket": "FP6",
+    "cores": 8,
+    "threads": 16,
+    "baseGHz": 1.8,
+    "boostGHz": 4.3,
+    "tdpW": 15,
+    "memoryTypes": [
+      "DDR4"
+    ],
+    "integratedGraphics": "Radeon Graphics (8 cores)",
+    "pcieGen": 3,
+    "coolerIncluded": true
+  },
+  "listings": [],
+  "notes": "Laptop processor, soldered to the board. Cores, threads and clocks are from Lenovo's spec sheet (https://psrefstuff.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_5_15ALC05/IdeaPad_5_15ALC05_Spec.pdf) and match what this machine reports. The 15 W power figure and graphics core count come from a search summary of AMD's page, which could not be opened directly.",
+  "updatedAt": "2026-11-20"
+}

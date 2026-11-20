@@ -1,0 +1,33 @@
+{
+  "id": "crucial-ddr5-16gb-5600",
+  "type": "ram",
+  "brand": "Crucial",
+  "model": "Pro DDR5 16 GB (1x16) 5600 CL46",
+  "specs": {
+    "memoryType": "DDR5",
+    "modules": 1,
+    "moduleGB": 16,
+    "speedMTs": 5600,
+    "casLatency": 46
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Crucial%20Pro%20DDR5%2016%20GB%20(1x16)%205600%20CL46",
+      "price": 5700,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "Flipkart",
+      "url": "https://www.flipkart.com/search?q=Crucial%20Pro%20DDR5%2016%20GB%20(1x16)%205600%20CL46",
+      "price": 5500,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

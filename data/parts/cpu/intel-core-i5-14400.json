@@ -1,0 +1,52 @@
+{
+  "id": "intel-core-i5-14400",
+  "type": "cpu",
+  "brand": "Intel",
+  "model": "Core i5-14400",
+  "series": "Core 14th Gen",
+  "releaseYear": 2024,
+  "specs": {
+    "socket": "LGA1700",
+    "cores": 10,
+    "threads": 16,
+    "baseGHz": 2.5,
+    "boostGHz": 4.7,
+    "tdpW": 65,
+    "memoryTypes": [
+      "DDR4",
+      "DDR5"
+    ],
+    "integratedGraphics": "UHD Graphics 730",
+    "pcieGen": 5,
+    "coolerIncluded": true
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Intel%20Core%20i5-14400",
+      "price": 19400,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=Intel%20Core%20i5-14400",
+      "price": 18900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "Flipkart",
+      "url": "https://www.flipkart.com/search?q=Intel%20Core%20i5-14400",
+      "price": 18700,
+      "currency": "INR",
+      "inStock": false,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "notes": "6 performance cores and 4 efficiency cores. LGA1700 is the last generation for its socket.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

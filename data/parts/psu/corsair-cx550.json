@@ -1,0 +1,32 @@
+{
+  "id": "corsair-cx550",
+  "type": "psu",
+  "brand": "Corsair",
+  "model": "CX550",
+  "specs": {
+    "wattage": 550,
+    "efficiency": "80 Plus Bronze",
+    "modular": "no",
+    "formFactor": "ATX"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Corsair%20CX550",
+      "price": 4300,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=Corsair%20CX550",
+      "price": 4200,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

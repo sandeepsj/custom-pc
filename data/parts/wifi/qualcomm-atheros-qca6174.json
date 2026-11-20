@@ -1,0 +1,14 @@
+{
+  "id": "qualcomm-atheros-qca6174",
+  "type": "wifi",
+  "brand": "Qualcomm Atheros",
+  "model": "QCA6174",
+  "specs": {
+    "standard": "Wi-Fi 5 (802.11ac)",
+    "bluetooth": "4.0 (as the adapter reports)",
+    "interface": "M.2"
+  },
+  "listings": [],
+  "notes": "Read from this machine. Lenovo's spec sheet lists a Wi-Fi 6 card for this model family, but this unit has the 802.11ac card.",
+  "updatedAt": "2026-11-20"
+}

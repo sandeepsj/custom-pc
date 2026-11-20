@@ -1,0 +1,17 @@
+{
+  "id": "lenovo-len156fhd",
+  "type": "display",
+  "brand": "Lenovo",
+  "model": "LEN156FHD 15.6 in panel",
+  "replaceable": false,
+  "specs": {
+    "sizeIn": 15.6,
+    "widthPx": 1920,
+    "heightPx": 1080,
+    "refreshHz": 60,
+    "panel": "TN or IPS, not confirmed"
+  },
+  "listings": [],
+  "notes": "Size, resolution and 60 Hz timing read from the panel's EDID on this machine. Lenovo sold this model with TN (250 nits) and IPS (300 nits) panels; which one this unit has is not confirmed.",
+  "updatedAt": "2026-11-20"
+}

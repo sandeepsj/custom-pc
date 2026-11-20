@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-ideapad-5-15alc05-board",
+  "type": "motherboard",
+  "brand": "Lenovo",
+  "model": "IdeaPad 5 15ALC05 mainboard (LNVNB161216)",
+  "replaceable": false,
+  "extra": {
+    "Card reader": "4-in-1",
+    "Audio jack": "3.5 mm combo"
+  },
+  "specs": {
+    "socket": "FP6",
+    "chipset": "AMD SoC platform",
+    "formFactor": "Laptop",
+    "memoryType": "DDR4",
+    "ramFormFactor": "SO-DIMM",
+    "ramSlots": 0,
+    "maxRamGB": 16,
+    "m2Slots": 1,
+    "sataPorts": 1,
+    "pcieX16Slots": 0,
+    "pcieGen": 3,
+    "wifi": null,
+    "bluetooth": null,
+    "ethernet": "None",
+    "videoOutputs": [
+      "HDMI 1.4b",
+      "USB-C (DisplayPort 1.2)"
+    ],
+    "usbRear": [
+      "2x USB-A 3.2 Gen 1",
+      "1x USB-C 3.2 Gen 1 (data, charging, display)"
+    ]
+  },
+  "listings": [],
+  "notes": "Board name read from this machine. Slot counts and ports are from Lenovo's spec sheet: https://psrefstuff.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_5_15ALC05/IdeaPad_5_15ALC05_Spec.pdf. Memory is soldered with no slots, 16 GB is the ceiling. One M.2 slot (takes 2242 or 2280 drives, PCIe 3.0 x4). The single SATA port is the 2.5-inch drive bay, which Lenovo fits on 45 Wh and 57 Wh battery models; whether this unit has the bay's cable and bracket is not checked.",
+  "updatedAt": "2026-11-20"
+}

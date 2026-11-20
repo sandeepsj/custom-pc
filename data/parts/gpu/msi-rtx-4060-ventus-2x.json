@@ -1,0 +1,47 @@
+{
+  "id": "msi-rtx-4060-ventus-2x",
+  "type": "gpu",
+  "brand": "MSI",
+  "model": "GeForce RTX 4060 Ventus 2X Black 8G",
+  "releaseYear": 2023,
+  "specs": {
+    "chipset": "GeForce RTX 4060",
+    "vramGB": 8,
+    "lengthMm": 199,
+    "tdpW": 115,
+    "recommendedPsuW": 550,
+    "outputs": [
+      "3x DisplayPort 1.4a",
+      "1x HDMI 2.1"
+    ],
+    "powerConnectors": "1x 8-pin"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=MSI%20GeForce%20RTX%204060%20Ventus%202X%20Black%208G",
+      "price": 28900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=MSI%20GeForce%20RTX%204060%20Ventus%202X%20Black%208G",
+      "price": 28500,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "Vedant Computers",
+      "url": "https://www.vedantcomputers.com/index.php?route=product/search&search=MSI%20GeForce%20RTX%204060%20Ventus%202X%20Black%208G",
+      "price": 28700,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

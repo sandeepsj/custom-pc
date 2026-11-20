@@ -1,0 +1,17 @@
+{
+  "id": "lenovo-soldered-ddr4-3200-16gb",
+  "type": "ram",
+  "brand": "Lenovo",
+  "model": "16 GB DDR4-3200, soldered",
+  "replaceable": false,
+  "specs": {
+    "memoryType": "DDR4",
+    "formFactor": "Soldered",
+    "modules": 1,
+    "moduleGB": 16,
+    "speedMTs": 3200
+  },
+  "listings": [],
+  "notes": "Soldered to the board and not upgradable, per Lenovo's spec sheet (https://psrefstuff.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_5_15ALC05/IdeaPad_5_15ALC05_Spec.pdf), which says 16 GB models run dual channel. This machine reports 13.6 GB usable, which fits 16 GB with about 2 GB reserved for graphics. The module details were not read directly; `sudo dmidecode -t memory` would confirm them.",
+  "updatedAt": "2026-11-20"
+}

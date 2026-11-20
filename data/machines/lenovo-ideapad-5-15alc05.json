@@ -1,0 +1,50 @@
+{
+  "id": "lenovo-ideapad-5-15alc05",
+  "kind": "laptop",
+  "name": "IdeaPad 5 15ALC05",
+  "brand": "Lenovo",
+  "purpose": "The laptop in use today. The baseline any new desktop has to match.",
+  "owned": true,
+  "parts": {
+    "cpu": "amd-ryzen-7-5700u",
+    "motherboard": "lenovo-ideapad-5-15alc05-board",
+    "ram": [
+      {
+        "id": "lenovo-soldered-ddr4-3200-16gb",
+        "qty": 1
+      }
+    ],
+    "storage": [
+      {
+        "id": "umis-am620-512gb",
+        "qty": 1
+      }
+    ],
+    "wifi": "qualcomm-atheros-qca6174",
+    "display": "lenovo-len156fhd",
+    "battery": "celxpert-l19c3pf5"
+  },
+  "listings": [
+    {
+      "seller": "Flipkart",
+      "url": "https://www.flipkart.com/lenovo-ideapad-slim-5-amd-ryzen-7-octa-core-5700u-16-gb-512-gb-ssd-windows-11-home-15alc05-a-b-thin-light-laptop/p/itmae86416499b09",
+      "price": 93690,
+      "currency": "INR",
+      "inStock": false,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "image": {
+    "file": "lenovo-ideapad-5-15alc05.png",
+    "source": "https://psrefstuff.lenovo.com/syspool/Sys/Image/IdeaPad/IdeaPad_5_15ALC05/IdeaPad_5_15ALC05_CT1_01.png",
+    "credit": "Lenovo product photo"
+  },
+  "notes": "Hardware read from the machine itself on 2026-11-20; slot counts and ports from Lenovo's spec sheet. The model is discontinued and no seller had it in stock. The Flipkart figure is the price still shown on its out-of-stock page for a 5700U / 16 GB / 512 GB version and is likely well above what it sold for: price trackers show sibling versions launching between about ₹66,990 and ₹70,990 in 2021, but those figures came from search summaries and were not confirmed on the pages. The exact India model number of this unit is not known.",
+  "extra": {
+    "Machine type": "82LN",
+    "Weight": "From 1.66 kg",
+    "Battery health": "46 of 57 Wh left after 702 cycles",
+    "Firmware": "H2CN31WW (2022-11-21)"
+  },
+  "updatedAt": "2026-11-20"
+}

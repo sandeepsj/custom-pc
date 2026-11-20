@@ -1,0 +1,35 @@
+{
+  "id": "seagate-barracuda-2tb",
+  "type": "storage",
+  "brand": "Seagate",
+  "model": "BarraCuda 2 TB",
+  "specs": {
+    "kind": "hdd",
+    "interface": "sata",
+    "formFactor": "3.5in",
+    "capacityGB": 2000,
+    "readMBs": 220,
+    "writeMBs": 220
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Seagate%20BarraCuda%202%20TB",
+      "price": 5700,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=Seagate%20BarraCuda%202%20TB",
+      "price": 5600,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "notes": "7200 rpm hard disk for bulk files and backups.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

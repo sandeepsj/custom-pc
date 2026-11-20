@@ -1,0 +1,34 @@
+{
+  "id": "corsair-vengeance-ddr5-32gb-6000",
+  "type": "ram",
+  "brand": "Corsair",
+  "model": "Vengeance DDR5 32 GB (2x16) 6000 CL30",
+  "specs": {
+    "memoryType": "DDR5",
+    "modules": 2,
+    "moduleGB": 16,
+    "speedMTs": 6000,
+    "casLatency": 30
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Corsair%20Vengeance%20DDR5%2032%20GB%20(2x16)%206000%20CL30",
+      "price": 11400,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=Corsair%20Vengeance%20DDR5%2032%20GB%20(2x16)%206000%20CL30",
+      "price": 11000,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "notes": "6000 MT/s CL30 is the usual sweet spot for AM5.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

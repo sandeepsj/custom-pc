@@ -1,0 +1,31 @@
+{
+  "id": "tp-link-archer-tx55e",
+  "type": "wifi",
+  "brand": "TP-Link",
+  "model": "Archer TX55E",
+  "specs": {
+    "standard": "Wi-Fi 6 (AX3000)",
+    "bluetooth": "5.2",
+    "interface": "PCIe"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=TP-Link%20Archer%20TX55E",
+      "price": 2900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "Flipkart",
+      "url": "https://www.flipkart.com/search?q=TP-Link%20Archer%20TX55E",
+      "price": 2950,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

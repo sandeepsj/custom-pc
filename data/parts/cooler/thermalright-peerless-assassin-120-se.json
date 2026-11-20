@@ -1,0 +1,38 @@
+{
+  "id": "thermalright-peerless-assassin-120-se",
+  "type": "cooler",
+  "brand": "Thermalright",
+  "model": "Peerless Assassin 120 SE",
+  "specs": {
+    "kind": "air",
+    "sockets": [
+      "AM5",
+      "AM4",
+      "LGA1700",
+      "LGA1851"
+    ],
+    "heightMm": 157,
+    "tdpRatingW": 260
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Thermalright%20Peerless%20Assassin%20120%20SE",
+      "price": 3400,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "Vedant Computers",
+      "url": "https://www.vedantcomputers.com/index.php?route=product/search&search=Thermalright%20Peerless%20Assassin%20120%20SE",
+      "price": 3300,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "notes": "Dual-tower cooler. Check case clearance.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

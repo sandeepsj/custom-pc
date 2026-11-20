@@ -1,0 +1,60 @@
+{
+  "id": "gigabyte-b650-eagle-ax",
+  "type": "motherboard",
+  "brand": "Gigabyte",
+  "model": "B650 Eagle AX",
+  "releaseYear": 2023,
+  "specs": {
+    "socket": "AM5",
+    "chipset": "B650",
+    "formFactor": "ATX",
+    "memoryType": "DDR5",
+    "ramSlots": 4,
+    "maxRamGB": 192,
+    "m2Slots": 3,
+    "sataPorts": 4,
+    "pcieX16Slots": 1,
+    "pcieGen": 4,
+    "wifi": "Wi-Fi 6E",
+    "bluetooth": "5.3",
+    "ethernet": "1 GbE",
+    "videoOutputs": [
+      "HDMI 2.1",
+      "DisplayPort 1.4"
+    ],
+    "usbRear": [
+      "4x USB 2.0",
+      "3x USB-A 3.2 Gen 1",
+      "1x USB-C 3.2 Gen 2"
+    ],
+    "audio": "Realtek ALC897"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Gigabyte%20B650%20Eagle%20AX",
+      "price": 16900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=Gigabyte%20B650%20Eagle%20AX",
+      "price": 16500,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "Vedant Computers",
+      "url": "https://www.vedantcomputers.com/index.php?route=product/search&search=Gigabyte%20B650%20Eagle%20AX",
+      "price": 16700,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

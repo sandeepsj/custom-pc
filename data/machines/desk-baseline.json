@@ -1,0 +1,27 @@
+{
+  "id": "desk-baseline",
+  "kind": "custom",
+  "name": "Desk baseline",
+  "purpose": "Matches a 16 GB laptop today, with room to grow in every direction.",
+  "parts": {
+    "cpu": "amd-ryzen-5-7600",
+    "motherboard": "msi-b650m-gaming-plus-wifi",
+    "ram": [
+      {
+        "id": "corsair-vengeance-ddr5-32gb-6000",
+        "qty": 1
+      }
+    ],
+    "storage": [
+      {
+        "id": "wd-black-sn770-1tb",
+        "qty": 1
+      }
+    ],
+    "psu": "corsair-cx550",
+    "case": "cooler-master-q300l"
+  },
+  "notes": "No graphics card: the monitor runs from the CPU. The Focusrite interface, speakers and mic plug into USB as they do on the laptop.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

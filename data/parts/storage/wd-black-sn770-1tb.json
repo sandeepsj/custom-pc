@@ -1,0 +1,43 @@
+{
+  "id": "wd-black-sn770-1tb",
+  "type": "storage",
+  "brand": "WD",
+  "model": "Black SN770 1 TB",
+  "specs": {
+    "kind": "ssd",
+    "interface": "nvme",
+    "formFactor": "M.2 2280",
+    "capacityGB": 1000,
+    "readMBs": 5150,
+    "writeMBs": 4900,
+    "pcieGen": 4
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=WD%20Black%20SN770%201%20TB",
+      "price": 6700,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=WD%20Black%20SN770%201%20TB",
+      "price": 6500,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "Flipkart",
+      "url": "https://www.flipkart.com/search?q=WD%20Black%20SN770%201%20TB",
+      "price": 6600,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

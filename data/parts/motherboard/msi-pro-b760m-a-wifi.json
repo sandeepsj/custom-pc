@@ -1,0 +1,52 @@
+{
+  "id": "msi-pro-b760m-a-wifi",
+  "type": "motherboard",
+  "brand": "MSI",
+  "model": "PRO B760M-A WiFi",
+  "releaseYear": 2023,
+  "specs": {
+    "socket": "LGA1700",
+    "chipset": "B760",
+    "formFactor": "mATX",
+    "memoryType": "DDR5",
+    "ramSlots": 4,
+    "maxRamGB": 192,
+    "m2Slots": 2,
+    "sataPorts": 4,
+    "pcieX16Slots": 1,
+    "pcieGen": 4,
+    "wifi": "Wi-Fi 6E",
+    "bluetooth": "5.3",
+    "ethernet": "2.5 GbE",
+    "videoOutputs": [
+      "HDMI 2.1",
+      "DisplayPort 1.4"
+    ],
+    "usbRear": [
+      "4x USB 2.0",
+      "2x USB-A 3.2 Gen 2",
+      "1x USB-C 3.2 Gen 2"
+    ],
+    "audio": "Realtek ALC897"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=MSI%20PRO%20B760M-A%20WiFi",
+      "price": 13900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=MSI%20PRO%20B760M-A%20WiFi",
+      "price": 13500,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

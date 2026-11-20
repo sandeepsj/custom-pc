@@ -1,0 +1,27 @@
+{
+  "id": "apc-bx1100c-in",
+  "type": "ups",
+  "brand": "APC",
+  "model": "Back-UPS BX1100C-IN",
+  "specs": {
+    "capacityVA": 1100,
+    "outputW": 660,
+    "topology": "line-interactive",
+    "waveform": "simulated sine",
+    "outlets": 4,
+    "usbLink": false
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=APC+BX1100C-IN",
+      "price": 6500,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "notes": "Sample entry from memory. Check the rating, outlets and USB link against APC's page before relying on it.",
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

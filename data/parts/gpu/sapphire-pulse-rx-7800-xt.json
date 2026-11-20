@@ -1,0 +1,39 @@
+{
+  "id": "sapphire-pulse-rx-7800-xt",
+  "type": "gpu",
+  "brand": "Sapphire",
+  "model": "Pulse Radeon RX 7800 XT 16G",
+  "releaseYear": 2023,
+  "specs": {
+    "chipset": "Radeon RX 7800 XT",
+    "vramGB": 16,
+    "lengthMm": 280,
+    "tdpW": 263,
+    "recommendedPsuW": 700,
+    "outputs": [
+      "2x DisplayPort 2.1",
+      "2x HDMI 2.1"
+    ],
+    "powerConnectors": "2x 8-pin"
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=Sapphire%20Pulse%20Radeon%20RX%207800%20XT%2016G",
+      "price": 48900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=Sapphire%20Pulse%20Radeon%20RX%207800%20XT%2016G",
+      "price": 48000,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}

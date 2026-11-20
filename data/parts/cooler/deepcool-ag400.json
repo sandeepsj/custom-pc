@@ -1,0 +1,37 @@
+{
+  "id": "deepcool-ag400",
+  "type": "cooler",
+  "brand": "DeepCool",
+  "model": "AG400",
+  "specs": {
+    "kind": "air",
+    "sockets": [
+      "AM5",
+      "AM4",
+      "LGA1700",
+      "LGA1851"
+    ],
+    "heightMm": 150,
+    "tdpRatingW": 220
+  },
+  "listings": [
+    {
+      "seller": "Amazon.in",
+      "url": "https://www.amazon.in/s?k=DeepCool%20AG400",
+      "price": 2000,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    },
+    {
+      "seller": "MD Computers",
+      "url": "https://mdcomputers.in/index.php?route=product/search&search=DeepCool%20AG400",
+      "price": 1900,
+      "currency": "INR",
+      "inStock": true,
+      "checkedAt": "2026-11-20"
+    }
+  ],
+  "sample": true,
+  "updatedAt": "2026-11-20"
+}
