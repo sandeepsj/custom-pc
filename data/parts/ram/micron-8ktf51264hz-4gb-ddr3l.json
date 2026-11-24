@@ -1,0 +1,21 @@
+{
+  "id": "micron-8ktf51264hz-4gb-ddr3l",
+  "type": "ram",
+  "brand": "Micron",
+  "model": "8KTF51264HZ-1G9P1 4 GB DDR3L SO-DIMM",
+  "specs": {
+    "memoryType": "DDR3",
+    "formFactor": "SO-DIMM",
+    "modules": 1,
+    "moduleGB": 4,
+    "speedMTs": 1600
+  },
+  "extra": {
+    "Voltage": "1.35 V (DDR3L)",
+    "Rank": "Single",
+    "Stick rating": "DDR3L-1866 by part number; runs at 1600 here"
+  },
+  "listings": [],
+  "notes": "Read from the machine with dmidecode on 2026-11-24. One 4 GB stick in slot 2; the machine shows 3.7 GB usable, the rest is reserved for graphics. The speed recorded is the 1600 MT/s the machine runs it at.",
+  "updatedAt": "2026-11-24"
+}

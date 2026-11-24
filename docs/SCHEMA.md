@@ -33,7 +33,7 @@ Fields marked ★ feed the compatibility checks.
 
 **cpu**: ★`socket`, `cores`, `threads`, `baseGHz`, `boostGHz`, ★`tdpW`, ★`memoryTypes` (`["DDR5"]`), ★`integratedGraphics` (name or `null`), `pcieGen`, ★`coolerIncluded`
 
-**motherboard**: ★`socket`, `chipset`, ★`formFactor` (`ATX` `mATX` `ITX` `E-ATX` `Laptop` `Mini PC`), ★`memoryType` (`DDR4` `DDR5`), ★`ramFormFactor` (`DIMM` `SO-DIMM`, default `DIMM`), ★`ramSlots` (sockets only, not soldered memory), ★`maxRamGB`, ★`m2Slots`, ★`sataPorts`, `pcieX16Slots`, `pcieGen`, `wifi` (name or `null`), `bluetooth` (version or `null`), `ethernet`, `videoOutputs[]`, `usbRear[]`, `audio`?
+**motherboard**: ★`socket`, `chipset`, ★`formFactor` (`ATX` `mATX` `ITX` `E-ATX` `Laptop` `Mini PC`), ★`memoryType` (`DDR3` `DDR4` `DDR5`; DDR3L counts as `DDR3`), ★`ramFormFactor` (`DIMM` `SO-DIMM`, default `DIMM`), ★`ramSlots` (sockets only, not soldered memory), ★`maxRamGB`, ★`m2Slots`, ★`sataPorts`, `pcieX16Slots`, `pcieGen`, `wifi` (name or `null`), `bluetooth` (version or `null`), `ethernet`, `videoOutputs[]`, `usbRear[]`, `audio`?
 
 **ram** (one file per kit): ★`memoryType`, ★`formFactor` (`DIMM` `SO-DIMM` `Soldered`, default `DIMM`; soldered memory uses no slot), ★`modules` (sticks in the kit), ★`moduleGB` (per stick), `speedMTs`, `casLatency`?
 

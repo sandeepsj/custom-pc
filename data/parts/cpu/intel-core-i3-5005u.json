@@ -1,0 +1,34 @@
+{
+  "id": "intel-core-i3-5005u",
+  "type": "cpu",
+  "brand": "Intel",
+  "model": "Core i3-5005U",
+  "series": "5th-gen Core U-series (Broadwell)",
+  "releaseYear": 2015,
+  "replaceable": false,
+  "specs": {
+    "socket": "BGA1168",
+    "cores": 2,
+    "threads": 4,
+    "baseGHz": 2.0,
+    "boostGHz": 2.0,
+    "tdpW": 15,
+    "memoryTypes": [
+      "DDR3"
+    ],
+    "integratedGraphics": "Intel HD Graphics 5500",
+    "pcieGen": 2,
+    "coolerIncluded": true
+  },
+  "extra": {
+    "Cache": "3 MB L3, 2x 256 KB L2",
+    "Turbo boost": "None; tops out at 2.0 GHz",
+    "Idle temperature": "43 C on 2026-11-24",
+    "Power limit set by firmware": "17 W sustained, 25 W short bursts",
+    "Virtualisation (VT-x)": "Not exposed to the OS; likely switched off in the BIOS",
+    "Instruction sets": "AVX2, AES-NI, SSE4.2"
+  },
+  "listings": [],
+  "notes": "Laptop processor, soldered to the board. Model, socket, cores, threads, clock and cache read from the machine (lscpu and dmidecode) on 2026-11-24. The machine reports a top speed of 1.9 to 2.0 GHz, so there is no boost. The 15 W power figure and PCIe 2.0 are from memory of Intel's spec for this chip, not checked against Intel's page; this laptop's firmware sets a 17 W sustained limit; the Wi-Fi and Ethernet cards do link at PCIe 2.5 GT/s. Memory is DDR3L (1.35 V), recorded as DDR3.",
+  "updatedAt": "2026-11-24"
+}

@@ -52,7 +52,7 @@ const common = {
 const part = <T extends PartType, S extends z.ZodType>(type: T, specs: S) =>
   z.strictObject({ ...common, type: z.literal(type), specs });
 
-const MemoryType = z.enum(["DDR4", "DDR5"]);
+const MemoryType = z.enum(["DDR3", "DDR4", "DDR5"]);
 const BoardSize = z.enum(["ATX", "mATX", "ITX", "E-ATX", "Laptop", "Mini PC"]);
 const PsuSize = z.enum(["ATX", "SFX", "SFX-L"]);
 

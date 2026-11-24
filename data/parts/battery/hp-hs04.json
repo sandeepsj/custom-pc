@@ -1,0 +1,17 @@
+{
+  "id": "hp-hs04",
+  "type": "battery",
+  "brand": "HP",
+  "model": "HS04 (HS04041, Compal PABAS0241231)",
+  "specs": {
+    "capacityWh": 41.6,
+    "chemistry": "Li-ion"
+  },
+  "extra": {
+    "Design": "14.6 V, 2850 mAh",
+    "State on 2026-11-24": "Dead: reads 0% and will not charge; last full charge reported as 1671 of 2850 mAh"
+  },
+  "listings": [],
+  "notes": "Design capacity and state read from the machine on 2026-11-24. The pack no longer charges, so the laptop runs on the adapter only and switches off the moment mains power is lost.",
+  "updatedAt": "2026-11-24"
+}

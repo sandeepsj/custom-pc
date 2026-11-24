@@ -1,0 +1,20 @@
+{
+  "id": "wd-blue-wd10jpvx-1tb",
+  "type": "storage",
+  "brand": "Western Digital",
+  "model": "Blue Mobile 1 TB (WD10JPVX-60JC3T0)",
+  "specs": {
+    "kind": "hdd",
+    "interface": "sata",
+    "formFactor": "2.5in",
+    "capacityGB": 1000
+  },
+  "extra": {
+    "Spindle speed": "5400 rpm",
+    "Link": "SATA 6 Gb/s",
+    "Health on 2026-11-24": "SMART passed; 3,113 power-on hours, 2,168 power cycles, 0 reallocated sectors, 1 pending sector"
+  },
+  "listings": [],
+  "notes": "Model, capacity, speed and health read from the drive with smartctl on 2026-11-24. One sector is waiting to be reallocated, an early sign of wear worth watching on a drive this old. Read and write speeds were not measured.",
+  "updatedAt": "2026-11-24"
+}

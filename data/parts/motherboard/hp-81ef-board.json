@@ -1,0 +1,41 @@
+{
+  "id": "hp-81ef-board",
+  "type": "motherboard",
+  "brand": "HP",
+  "model": "Notebook mainboard 81EF",
+  "replaceable": false,
+  "extra": {
+    "Firmware": "Insyde F.09 (2016-05-19), UEFI",
+    "Optical drive": "HP DVDRW GUD1N on the second SATA port",
+    "Webcam": "HP TrueVision HD (Chicony)",
+    "Audio jack": "Headphone and microphone jacks on the left side (may be one combo socket)",
+    "Card reader": "None detected by Linux; sibling models list an SD reader"
+  },
+  "specs": {
+    "socket": "BGA1168",
+    "chipset": "Intel Broadwell-U with Wildcat Point-LP",
+    "formFactor": "Laptop",
+    "memoryType": "DDR3",
+    "ramFormFactor": "SO-DIMM",
+    "ramSlots": 2,
+    "maxRamGB": 16,
+    "m2Slots": 0,
+    "sataPorts": 1,
+    "pcieX16Slots": 0,
+    "pcieGen": 2,
+    "wifi": null,
+    "bluetooth": null,
+    "ethernet": "Realtek RTL810xE, 100 Mbps",
+    "videoOutputs": [
+      "HDMI"
+    ],
+    "usbRear": [
+      "1x USB-A 3.0",
+      "2x USB-A 2.0"
+    ],
+    "audio": "Realtek ALC3227"
+  },
+  "listings": [],
+  "notes": "Board name, firmware, chipset, two SO-DIMM slots, 16 GB ceiling, Ethernet chip, audio chip and two SATA ports read from the machine on 2026-11-24. Slot 1 (left) is empty and slot 2 (right) holds the 4 GB stick. The board has two SATA ports: the hard drive bay at 6 Gb/s and the DVD writer at 1.5 Gb/s. Only the drive bay is counted as a SATA port here, because the other is taken by the DVD writer; swapping the DVD writer for a drive caddy would give a second drive bay. No M.2 storage slot was detected. The machine reports three external USB ports, one of them USB 3.0, an HDMI connector and headphone and microphone jacks, which matches HP's spec page for a sibling 15-ac model with the same processor (https://support.hp.com/in-en/document/c04807866). No card reader was detected, although the sibling models list an SD reader; no spec sheet was found for product number W6T33PA itself.",
+  "updatedAt": "2026-11-24"
+}

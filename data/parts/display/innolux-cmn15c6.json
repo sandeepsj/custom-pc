@@ -1,0 +1,23 @@
+{
+  "id": "innolux-cmn15c6",
+  "type": "display",
+  "brand": "Innolux",
+  "model": "CMN15C6 15.6 in panel",
+  "releaseYear": 2015,
+  "replaceable": false,
+  "specs": {
+    "sizeIn": 15.6,
+    "widthPx": 1366,
+    "heightPx": 768,
+    "refreshHz": 60,
+    "panel": "TN, not confirmed"
+  },
+  "extra": {
+    "Colour depth": "6 bits per channel",
+    "Connection": "eDP",
+    "Made": "Week 36 of 2015"
+  },
+  "listings": [],
+  "notes": "Maker code, size (344 x 193 mm), resolution, 60 Hz timing and colour depth read from the panel's EDID on 2026-11-24. The panel type is not in the EDID; 6-bit 1366x768 panels of this age are normally TN.",
+  "updatedAt": "2026-11-24"
+}

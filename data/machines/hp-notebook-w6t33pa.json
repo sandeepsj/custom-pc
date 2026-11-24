@@ -1,0 +1,41 @@
+{
+  "id": "hp-notebook-w6t33pa",
+  "kind": "laptop",
+  "name": "HP Notebook W6T33PA (homei3)",
+  "brand": "HP",
+  "purpose": "Old laptop reused as a headless worker on the home network, reached over SSH as homei3.",
+  "owned": true,
+  "parts": {
+    "cpu": "intel-core-i3-5005u",
+    "motherboard": "hp-81ef-board",
+    "ram": [
+      {
+        "id": "micron-8ktf51264hz-4gb-ddr3l",
+        "qty": 1
+      }
+    ],
+    "storage": [
+      {
+        "id": "wd-blue-wd10jpvx-1tb",
+        "qty": 1
+      }
+    ],
+    "wifi": "realtek-rtl8723be",
+    "display": "innolux-cmn15c6",
+    "battery": "hp-hs04"
+  },
+  "listings": [],
+  "notes": "Hardware read from the machine itself over SSH on 2026-11-24. HP reports it only as 'HP Notebook' with product number W6T33PA#ACJ; it appears to be a 15-ac series model, but the exact model name was not confirmed and no spec sheet for this product number was found. No price is recorded: it is an owned 2015-2016 laptop with no current listing.",
+  "extra": {
+    "Product number": "W6T33PA#ACJ",
+    "Hostname": "homei3",
+    "Operating system": "Debian 13 (trixie), no desktop, kernel 6.12",
+    "Idle memory use": "About 380 MB of 3.7 GB",
+    "Network": "Wi-Fi at 2.4 GHz; cable port not connected",
+    "Optical drive": "DVD writer",
+    "Webcam": "HP TrueVision HD",
+    "Battery health": "Dead: 0%, will not charge",
+    "Firmware": "Insyde F.09 (2016-05-19)"
+  },
+  "updatedAt": "2026-11-24"
+}
